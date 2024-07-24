@@ -1,0 +1,1 @@
+this is the first project in the TOP foundation track, I'will be creating an only HTML website showing diffrent recipies , as simple as it sounds it's a learning and humbeling experience for me , i have learned all the basics of web developement in my computer engeeniring curriculumn, yet i havent worked on projects yet, and I think this would be a good start.
